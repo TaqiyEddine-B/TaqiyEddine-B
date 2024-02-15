@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi 👋
+My name is Taqiy Eddine, and I am a developer specializing in artificial intelligence with a degree in software engineering.
 
+I'm passionate about leveraging Artificial Intelligence to transform ideas into tangible products.
 <!--
 **TaqiyEddine-B/TaqiyEddine-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
