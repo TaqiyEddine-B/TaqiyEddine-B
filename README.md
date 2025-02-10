@@ -1,7 +1,9 @@
 ### Hi 👋
-My name is Taqiy Eddine, and I am a developer specializing in artificial intelligence with a degree in software engineering.
+AI Engineer with 4+ years of experience transforming ideas into production-ready AI solutions. I have expertise in Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and AI Agents.
 
-I'm passionate about leveraging Artificial Intelligence to transform ideas into tangible products.
+My approach combines product-focused mindset, end-to-end implementation capabilities, and technical versatility to help organizations navigate the AI landscape by converting concepts into business solutions.
+
+Ready to employ this expertise to advance your AI initiatives and transform your ideas into reality.
 <!--
 **TaqiyEddine-B/TaqiyEddine-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
